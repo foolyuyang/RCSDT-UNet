@@ -1,7 +1,7 @@
 # RCSDT-UNet
 RCSDT-UNet for ONFH Diagnosis and Segmentation
 
-The RCSDT-UNet.ipynb file carried out ONFH ROI segmentation and dignosis from the "input_data" directory, and the results would be shown in "output_mask" directory.
+The RCSDT-UNet.ipynb file carried out ONFH ROI segmentation and dignosis from the "input_data" directory, and the binary segmentation mask results would be shown in "output_mask" directory.
 
 The trained model weight file "best_model.pth" exceeded the limit of github respository, and could be downloaded from the following link: https://drive.google.com/file/d/13bY_DsRwsjOkCBmlqaKt3J4zxRrjOc1u/view?usp=sharing.
 
